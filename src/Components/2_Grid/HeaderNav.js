@@ -1,7 +1,7 @@
 import React from 'react'
 import { AppBar, Toolbar, Typography } from '@material-ui/core'
 import AcUnitRoundedIcon from '@material-ui/icons/AcUnitRounded';
-import {makeStyles} from "@material-ui/styles"
+import {makeStyles} from "@material-ui/core/styles"
 const useStyle = makeStyles(() => ({
   typographyStyle: {
     flex: 1
